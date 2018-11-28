@@ -11,7 +11,7 @@ setup(
   author = 'Saurabh Gharat',                   
   author_email = 'saurabhhgharat9@gmail.com',      
   url = 'https://github.com/saurabhgharat',   
-  download_url = 'https://github.com/saurabhgharat/image-compression/archive/v_01.tar.gz',   
+  download_url = 'https://github.com/saurabhgharat/image-compression/archive/0.2.tar.gz',   
   keywords = ['compression', 'image', 'python','django'],   
   install_requires=[            
           'pillow'
