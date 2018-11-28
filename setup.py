@@ -6,6 +6,8 @@ setup(
   version = '0.1',     
   license='MIT',        
   description = 'compress image without losing quality',  
+  long_description=long_description,
++ long_description_content_type="text/markdown",
   author = 'Saurabh Gharat',                   
   author_email = 'saurabhhgharat9@gmail.com',      
   url = 'https://github.com/saurabhgharat',   
