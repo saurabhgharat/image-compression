@@ -1,4 +1,5 @@
-Image compression using Python
+Image compression using Python 
+
 Image compression is done to reduce the cost of storage and transmission
 Steps
 1. Open the file and read it
