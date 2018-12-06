@@ -8,7 +8,7 @@ def readme():
 setup(
   name = 'image-compression',        
   packages = ['image-compression'],   
-  version = '0.3',     
+  version = '0.4',     
   license='MIT',        
   description = 'compress image without losing quality',  
   long_description=readme(),
